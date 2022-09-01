@@ -1,3 +1,3 @@
 # git_test
-Baby's first Github repo
+Baby's first Github repo!
 Hello Odin!
